@@ -1,6 +1,0 @@
- 
-{{#user}
-Name: Adyanta Dubey
-Skills: HTML, CSS, JS, Next.js, Node.js,Python,Reactjs,c++,Mongodb,Expressjs
-Email: adyantadubey1234@gmail.com
-{{/user}}
